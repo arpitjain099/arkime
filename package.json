@@ -117,7 +117,7 @@
     "@testing-library/vue": "^5.9.0",
     "@vue/vue2-jest": "^29.2.6",
     "autoprefixer": "^10.2.5",
-    "bootstrap": "^4.6.2",
+    "bootstrap": "^5.0.0",
     "bootstrap-vue": "^2.18.1",
     "copy-webpack-plugin": "^7.0.0",
     "country-code-emoji": "^2.3.0",
